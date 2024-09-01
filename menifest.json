@@ -1,0 +1,14 @@
+                                                                                                                                                             {
+"name": "TOOBA SHAKOOR",
+  "version": "1.0.0",
+  "description": "BUILDING A CHROME EXTENSION TOOBA SHAKOOR",
+  "manifest_version": 3,
+  "author": "TOOBA",
+  "action": {
+      "default_popup": "index.html",
+      "default_title": "Latest TOOBA"
+  },
+  "permissions": [
+      "activeTab"
+  ]
+}
